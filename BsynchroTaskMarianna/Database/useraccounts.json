@@ -1,0 +1,32 @@
+[
+  {
+    "Id": "123",
+    "CustomerId": "456",
+    "Name": "Marianna",
+    "SurName": "Rezk",
+    "Balance": 500.0,
+    "Transactions": [
+      {
+        "TransactionId": "1",
+        "Amount": 100.0
+      },
+  
+      {
+        "TransactionId": "2fd91b0a-b46c-4a5b-bf04-0eba72f81c58",
+        "Amount": 200.0
+      },
+      {
+        "TransactionId": "3492e6b7-5042-43d3-a94d-9a5667af69d8",
+        "Amount": 200.0
+      }
+    ]
+  },
+  {
+    "Id": "0f42db05-b96e-48c6-bff7-7634a64387a4",
+    "CustomerId": "4567",
+    "Name": null,
+    "SurName": null,
+    "Balance": 0.0,
+    "Transactions": []
+  }
+]

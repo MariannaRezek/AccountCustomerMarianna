@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34114.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BsynchroTaskMarianna", "BsynchroTaskMarianna\BsynchroTaskMarianna.csproj", "{6638938C-A3A1-4718-8268-E8B30B0D917B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6638938C-A3A1-4718-8268-E8B30B0D917B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6638938C-A3A1-4718-8268-E8B30B0D917B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6638938C-A3A1-4718-8268-E8B30B0D917B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6638938C-A3A1-4718-8268-E8B30B0D917B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E608169-87CE-4E6C-8AA9-DD6FF4CCEBEE}
+	EndGlobalSection
+EndGlobal
