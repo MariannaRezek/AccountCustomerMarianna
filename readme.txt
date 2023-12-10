@@ -9,6 +9,10 @@ CustomerId: 456
 initialCredit: 100
 it will update the existing account with transactions. 
 
+GetAccountInfo example:
+AccountId: 123
+
+
 
 
 MAKE SURE TO CHANGE THE PATH IN ACCOUNTSERVICE.CS
